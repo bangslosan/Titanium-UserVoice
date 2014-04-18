@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: My module
+author: Acts 18 Technology
+license: MIT
+copyright: 2014
+
+
+# these should not be edited
+name: UserVoiceModule
+moduleid: com.acts18tech.uservoice
+guid: 848eb3ed-bf4d-4827-bba2-6bf79d92c29d
+platform: iphone
+minsdk: 3.2.2.GA
